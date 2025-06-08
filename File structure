@@ -1,0 +1,8 @@
+restaurant-automation-system/
+├── restaurant-automation-system.py
+├── data/
+│ ├── efood.csv # Menu items and prices
+│ ├── IdPass.csv # User credentials
+│ ├── cart.csv # Temporary shopping cart
+│ ├── Feedback.csv # User feedback entries
+│ └── Recommendations.csv  # Order history
